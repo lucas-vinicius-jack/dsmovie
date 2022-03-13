@@ -8,11 +8,12 @@ function Navbar(){
         <nav className="container">
             <div className="dsmovie-nav-content">
                 <h1>DSMovie</h1>
-                <a href="https://github.com/lucas-vinicius-jack"></a>
+                <a href="https://github.com/lucas-vinicius-jack" target="_blank" rel="noreferrer">
                 <div className="dsmovie-contatct-containet" >
                     <GitHubIcon/>
                     <p className="dsmovie-contact-link">/devsuperior</p>
                 </div>
+                </a>
             </div>
         </nav>
         </header>
